@@ -1,0 +1,21 @@
+# Pastas geradas pelo Unreal Engine
+/Binaries
+/Intermediate
+/DerivedDataCache
+/Saved
+/.vs
+/.vscode
+
+# Arquivos de usuário (IDE)
+*.suo
+*.user
+*.userprefs
+
+# Arquivos de build
+*.apk
+*.aab
+*.ipa
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
